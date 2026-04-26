@@ -1,3 +1,3 @@
-function redir(site){
-    window.location.replace(site);
+function redir(tosite){
+    window.location.replace(tosite);
 }
