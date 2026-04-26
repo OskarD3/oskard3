@@ -1,3 +1,3 @@
-function redir(tosite){
-    window.location.replace(tosite);
+function manual_Send(tosite){
+    window.location.href = tosite;
 }
