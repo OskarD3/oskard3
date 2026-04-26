@@ -1,3 +1,3 @@
-function manual_Send(tosite){
-    window.location.href = tosite;
+function manual_Send(target_website_to_go_to){
+    window.location.href = target_website_to_go_to;
 }
